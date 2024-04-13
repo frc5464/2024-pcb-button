@@ -17,6 +17,10 @@ DO NOT PUNCTURE OR MODIFY THE LIPO BATTERY IN ANY WAY
 
 
 
+
+
 BOM for rev 2:
+
 560 ohm through-hole resistor
+
 Any LED! We got multicolor auto-changing LEDs here: https://www.amazon.com/DiCUNO-Multicolor-Multi-Color-Electronic-Components/dp/B08ZXK5WMZ
