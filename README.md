@@ -1,6 +1,7 @@
 # 2024-pcb-button
-Buttons created for pit handouts and soldering tutorials
+Buttons created for pit handouts and soldering tutorials. NOTE: There are two revisions for this design. The first design has a much more complicated circuit with an Arduino at its core, and addressable LEDs as the light source. This turned out to be very complicated to assemble with solder, so Rev 2 simplified this.
 
+____________________________________________________________________________________________________
 
 BOM for rev 1:
 LEDS: https://www.digikey.com/en/products/detail/adafruit-industries-llc/2686/5804107
@@ -17,6 +18,7 @@ DO NOT PUNCTURE OR MODIFY THE LIPO BATTERY IN ANY WAY
 
 
 
+____________________________________________________________________________________________________
 
 
 BOM for rev 2:
